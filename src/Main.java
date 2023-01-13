@@ -5,7 +5,9 @@ public class Main {
 		System.out.println("Hello World");
 	}
 	public void add(int a, int b){
-		a=10;
-	    b=20;
+	
+	}
+	public void add(int a, int b, double c){
+	
 	}
 }
